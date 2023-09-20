@@ -1,0 +1,47 @@
+body{
+    background-color:#621402;
+}
+
+.menu-link{
+    color:white;
+    text-decoration: none;
+}
+
+.menu{
+    list-style-type: none;
+    display: flex;
+}
+
+.container{
+    max-width: 1170px;
+    margin: 0 auto;
+}
+
+.menu-item{
+  margin-right: 25px;
+    
+    
+}
+
+.header{
+    display: flex;
+    align-items: center;
+}
+
+.user{
+    margin-left: auto;
+    color:white;
+    display: flex;
+    align-items:center;
+    
+
+}
+
+.avatar{
+    margin-left: 11px;
+}
+
+.title{
+    min-height: 817px;
+     background:url('../img/bg.png') center center/cover no-repeat;
+}

@@ -10,6 +10,7 @@ body{
 .menu{
     list-style-type: none;
     display: flex;
+    margin: 0 ;
 }
 
 .container{
@@ -26,6 +27,7 @@ body{
 .header{
     display: flex;
     align-items: center;
+    
 }
 
 .user{
@@ -33,7 +35,7 @@ body{
     color:white;
     display: flex;
     align-items:center;
-    
+    margin-top: 38px;
 
 }
 
@@ -44,4 +46,11 @@ body{
 .title{
     min-height: 817px;
      background:url('../img/bg.png') center center/cover no-repeat;
+}
+
+nav{
+    margin-top: 38px;
+}
+.logo{
+    margin-top: 38px;
 }
